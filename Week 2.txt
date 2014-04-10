@@ -1,4 +1,4 @@
 Week 2. 
 1. Brianna 
 2. Goals for finish quad copter. 
-3. 
+3. Install Ubuntuu and ROS. 
